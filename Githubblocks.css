@@ -1,0 +1,55 @@
+.container {
+    width: 240px;
+    height: 378px;
+    margin: auto;
+    background-color: grey;
+    display: flex;
+    justify-items: auto;
+
+}
+img {width: 100px;
+    height: 100px;}
+
+.boxer {
+    padding: 10px;
+    border: 1px solid black;
+
+}
+
+.justice {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.miner {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.private {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.sentry {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.topgun {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.yoga {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#bjm {
+    background-color: blueviolet;
+}
+
+#ps {
+    background-color: palevioletred;
+}
